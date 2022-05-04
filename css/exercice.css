@@ -34,14 +34,14 @@
 
 .exercice-absolute-2 .block{
   position: absolute;
-  top: 0px;
+  top: 0%;
 }
 
 .exercice-absolute-2 .block-black {
-  right: 220px;
+  right: 50%;
 }
 .exercice-absolute-2 .block-blue {
-  right: 0px;
+  right: 0%;
 }
 
 /* 6. FIGURE / FIGCAPTION */
